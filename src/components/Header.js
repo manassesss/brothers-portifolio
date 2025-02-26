@@ -14,9 +14,9 @@ export default function Header() {
     };
 
     const menuItems = [
-        { label: 'Home', href: '#' },
-        { label: 'Sobre', href: '#' },
-        { label: 'Showcase', href: '#' },
+        { label: 'Home', href: '#home' },
+        { label: 'Sobre', href: '#about' },
+        { label: 'Showcase', href: '#showcase' },
     ];
 
     return (
